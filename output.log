@@ -1,0 +1,7 @@
+User:jk@example.com 04/16/2020 12:12:12 AM: DEBUG: main Line:14 This is a debug message
+User:jk@example.com 04/16/2020 12:12:12 AM: INFO: main Line:15 This is a info message
+User:jk@example.com 04/16/2020 12:12:12 AM: WARNING: main Line:16 This is a warning message
+User:jk@example.com 04/16/2020 12:12:12 AM: ERROR: main Line:17 This is an error message
+User:jk@example.com 04/16/2020 12:12:12 AM: CRITICAL: main Line:18 This is a critical message
+User:jk@example.com 04/16/2020 12:12:12 AM: INFO: main Line:20 Here's a string variable and an int.
+User:jk@example.com 04/16/2020 12:12:12 AM: DEBUG: anotherFunction Line:8 This is a debug-level message
